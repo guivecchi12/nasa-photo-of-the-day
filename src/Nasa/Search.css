@@ -1,0 +1,10 @@
+
+.hide{
+    display:none;
+}
+.info{
+    border:1px dashed lightgray;
+    padding:5px;
+    margin: 30px 10px;
+    text-align: justify;
+}
